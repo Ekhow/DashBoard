@@ -1,0 +1,10 @@
+# Dépendances
+node_modules/
+
+# Base de données locale
+database/*.sqlite
+
+# Variables d'environnement et fichiers système
+.env
+.DS_Store
+Thumbs.db
